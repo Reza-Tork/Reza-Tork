@@ -1,11 +1,8 @@
 <h2 align="left">Hi 👋! My name is Reza and I'm a developer</h2>
 
-###
-
 <img align="right" height="150" src="https://media1.tenor.com/m/bGS2OhhN9tsAAAAC/hello-gojo-satoru.gif"  />
 
-###
-
+### Programming languages I currently use:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -31,4 +28,14 @@
   </a>
 </div>
 
-###
+### 🚧 Currently Working On
+
+[![404Vpn](https://img.shields.io/badge/-404Vpn-%23007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reza-Tork/404Vpn)
+
+A project for managing and selling VPN services using **ASP.NET Core**, **Entity Framework**, and a **Telegram Bot** 🤖
+
+<br />
+
+🖼️ Admin Panel Preview:
+
+<img src="https://raw.githubusercontent.com/Reza-Tork/404Vpn/refs/heads/master/screenshots/dashboard.png" alt="Admin Panel Screenshot" width="600"/>
